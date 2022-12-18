@@ -1,0 +1,3 @@
+hi
+demo file is a text file
+can enter text format
